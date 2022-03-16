@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/vincentcurti/jenkins_home/booklibrary/src/main/java/com/lejap59/booklibrary/Book.java">
+</file>
+<file name="/Users/vincentcurti/jenkins_home/booklibrary/src/main/java/com/lejap59/booklibrary/BookApplication.java">
+</file>
+<file name="/Users/vincentcurti/jenkins_home/booklibrary/src/main/java/com/lejap59/booklibrary/BookController.java">
+</file>
+<file name="/Users/vincentcurti/jenkins_home/booklibrary/src/main/java/com/lejap59/booklibrary/BookService.java">
+</file>
+</checkstyle>
