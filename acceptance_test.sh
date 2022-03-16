@@ -1,2 +1,2 @@
 #! /bin/bash
-test $(curl "localhost:8766/findBook?ISBN=1") -eq 1
+test $(curl "10.0.0.10:8766/findBook?ISBN=1") -eq 1

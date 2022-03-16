@@ -5,17 +5,7 @@ pipeline {
     }
 
     stages {
-  /*      stage('Hello') {
-            steps {
-                echo 'Hello World'
-            }
-        }
-        stage('Checkout') {
-            steps {
-                git credentialsId:'PAT-github', branch:'main', url:'https://github.com/lejap59/calculator.git'
-            }
-        }
-  */
+ 
         stage('Compile') {
             steps {
                 sh "./gradlew compileJava"
